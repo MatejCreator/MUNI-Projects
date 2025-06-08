@@ -1,1 +1,2 @@
-# projects
+# MUNI-Projects
+**Created by: Matej & Ivča**
