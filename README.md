@@ -1,8 +1,8 @@
 # MUNI-Projects
-**Created by: Matej & Ivča**
+_Created by: Matej & Ivča_
 ---
 **Currently working on:**
-- 
+- something
 
 **Future projects:**
 - IB111 Quiz
