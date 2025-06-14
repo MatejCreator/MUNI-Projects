@@ -1,5 +1,6 @@
-# MUNI-Projects #
-Created by: Matej & Ivča
+# MUNI-Projects
+
+Created by: Ivča & Matej
 ---
 **Currently working on:**
 - something
