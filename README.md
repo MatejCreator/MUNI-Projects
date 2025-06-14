@@ -5,9 +5,8 @@
 ---
 
 **Currently working on:**
-- something
+- BlockBlast AI
 
 **Future projects:**
 - IB111 Quiz
 - IB002 Quiz
-- BlockBlast AI
