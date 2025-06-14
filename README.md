@@ -1,7 +1,9 @@
 # MUNI-Projects
 
 **Created by: Ivča & Matej**
+
 ---
+
 **Currently working on:**
 - something
 
